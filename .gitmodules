@@ -1,0 +1,3 @@
+[submodule "TextMatchCut"]
+	path = TextMatchCut
+	url = https://github.com/TextMatchCut/TextMatchCut.git
